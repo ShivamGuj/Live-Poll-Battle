@@ -89,6 +89,9 @@ The application uses WebSockets (Socket.io) to handle real-time communication be
 ### Installation and Running
 
 1. Clone the repository
+    ```bash
+    git clone git@github.com:ShivamGuj/Live-Poll-Battle.git
+    ```
 2. Install dependencies for both client and server:
 
    ```bash
